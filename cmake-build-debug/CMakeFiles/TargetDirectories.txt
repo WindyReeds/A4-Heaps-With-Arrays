@@ -1,0 +1,3 @@
+C:/Users/tjsie/Desktop/College/CS_210/A4-Heaps-With-Arrays/cmake-build-debug/CMakeFiles/A4_Heaps_With_Arrays.dir
+C:/Users/tjsie/Desktop/College/CS_210/A4-Heaps-With-Arrays/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/tjsie/Desktop/College/CS_210/A4-Heaps-With-Arrays/cmake-build-debug/CMakeFiles/rebuild_cache.dir
